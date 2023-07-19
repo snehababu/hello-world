@@ -3,4 +3,3 @@ new to coding
 happy to be here
 
 1. i am a student
-2. i reside in India
